@@ -1,6 +1,6 @@
 <?php
 $host = 'localhost';
-$dbname = 'customer_feedback';
+$dbname = 'customer-feedback';
 $username = 'postgres'; // Utilisateur par défaut de PostgreSQL
 $password = ''; // Mot de passe que vous avez configuré
 

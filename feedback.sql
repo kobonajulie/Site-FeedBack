@@ -1,6 +1,6 @@
-CREATE DATABASE customer_feedback;
+CREATE DATABASE customer-feedback;
 
-\c customer_feedback;
+\c customer-feedback;
 
 CREATE TABLE feedbacks (
     id SERIAL PRIMARY KEY,
